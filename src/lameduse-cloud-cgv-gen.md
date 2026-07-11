@@ -168,7 +168,7 @@ Certains Services font en outre l'objet de **Conditions Particulières de Servic
 
 ## Article 12 : Niveau de service (SLA) et disponibilité
 
-12.1. Sauf engagement différent précisé au Devis ou à l'annexe SLA applicable, LaMeDuSe garantit un taux de disponibilité annuel des Services de **99,9 %**, mesuré sur une base mensuelle glissante.
+12.1. Sauf engagement différent précisé au Devis ou à l'annexe SLA applicable, LaMeDuSe garantit un taux de disponibilité des Services de **99,9 %**, mesuré sur une base mensuelle glissante.
 
 12.2. Ne sont pas comptabilisées comme indisponibilité :
    - les opérations de maintenance planifiée, notifiées au Client au moins **48 heures** à l'avance ;
