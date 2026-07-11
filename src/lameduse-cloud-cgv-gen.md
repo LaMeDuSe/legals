@@ -78,7 +78,7 @@ Certains Services font en outre l'objet de **Conditions Particulières de Servic
 
 5.1. Toute commande fait l'objet d'un Devis détaillant la nature, le volume et le prix des Services.
 
-5.2. Le contrat est réputé formé à compter de la signature du Devis par le Client (signature manuscrite, électronique, ou acceptation expresse par écrit — email compris) et, le cas échéant, du versement de l'acompte prévu.
+5.2. Le contrat est réputé formé à compter de la signature du Devis par le Client (signature manuscrite, électronique, ou acceptation expresse par écrit : email compris) et, le cas échéant, du versement de l'acompte prévu.
 
 5.3. LaMeDuSe se réserve le droit de refuser toute commande émanant d'un Client avec lequel existerait un litige relatif au paiement d'une commande antérieure, ou pour tout motif légitime.
 
@@ -498,7 +498,7 @@ Toute réclamation relative aux Services doit être adressée par écrit à l'ad
 
 ---
 
-*Document établi par LaMeDuSe SAS — SIREN 915 248 579 — 231 rue Saint-Honoré, 75001 Paris.*
+*Document établi par LaMeDuSe SAS : SIREN 915 248 579 : 231 rue Saint-Honoré, 75001 Paris.*
 
 *Dernière mise à jour : 19 juin 2026*
 
