@@ -1,0 +1,7 @@
+{
+    "name": "Conditions Particulieres : Service de Stockage NAS (Fichier Reseau)",
+    "last_updated": "2026-07-16",
+    "version": "1",
+    "src": "lameduse-cloud-cp-nas.md",
+    "description": "Conditions particulieres LaMeDuSe pour le service de stockage NAS (fichier reseau)"
+}

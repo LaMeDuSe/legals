@@ -168,7 +168,7 @@ Certains Services font en outre l'objet de **Conditions Particulières de Servic
 
 ## Article 12 : Niveau de service (SLA) et disponibilité
 
-12.1. Sauf engagement différent précisé au Devis ou à l'annexe SLA applicable, LaMeDuSe garantit un taux de disponibilité des Services de **99,9 %**, mesuré sur une base mensuelle glissante.
+12.1. Sauf engagement différent précisé au Devis ou à l'annexe SLA applicable, LaMeDuSe garantit un taux de disponibilité des Services dépendant de la **gamme de service** souscrite et précisée au Devis (**99,9 %**, **99,95 %** ou **99,99 %** selon la gamme, dans les conditions de l'annexe SLA), mesuré sur une base mensuelle glissante. À défaut d'indication de gamme au Devis, un taux de **99,9 %** s'applique par défaut.
 
 12.2. Ne sont pas comptabilisées comme indisponibilité :
    - les opérations de maintenance planifiée, notifiées au Client au moins **48 heures** à l'avance ;
@@ -274,13 +274,13 @@ Conformément à ses obligations légales, notamment au titre de la loi n° 2004
 
 ## Article 19 : Conservation des données de connexion
 
-19.1. Conformément à l'article 6-II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN) et à ses textes d'application, LaMeDuSe, en sa qualité d'hébergeur, détient et conserve les données de connexion et de trafic de nature à permettre l'identification de toute personne ayant contribué à la création d'un contenu hébergé, pour la durée fixée par la réglementation en vigueur (à titre indicatif, cette durée est actuellement d'un an, selon le cas, à compter de la création du contenu, de la clôture du compte ou de la résiliation du contrat).
+19.1. Conformément au V de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN), dans sa rédaction issue de la loi n° 2024-449 du 21 mai 2024, à l'article L. 34-1 du Code des postes et des communications électroniques et à leurs textes d'application, LaMeDuSe, en sa qualité de fournisseur de services d'hébergement, détient et conserve les données de connexion et de trafic de nature à permettre l'identification de toute personne ayant contribué à la création d'un contenu hébergé, pour la durée fixée par la réglementation en vigueur (à titre indicatif, cette durée est actuellement d'un an, selon le cas, à compter de la création du contenu, de la clôture du compte ou de la résiliation du contrat).
 
 19.2. Ces données sont conservées aux seules fins de permettre leur communication, sur réquisition, à l'autorité judiciaire ou aux autorités administratives habilitées, dans les conditions prévues par la loi.
 
 19.3. Cette obligation est distincte du traitement des données à caractère personnel du Client visé à l'article 24 : elle porte exclusivement sur les données de connexion et d'identification requises par la réglementation applicable aux hébergeurs, et non sur le contenu ou les données métier du Client.
 
-19.4. Le Client est informé que le défaut de conservation ou de communication de ces données par un hébergeur est pénalement sanctionné (article 6-VI de la LCEN).
+19.4. Le Client est informé que le défaut de conservation ou de communication de ces données par un fournisseur de services d'hébergement est pénalement sanctionné (B du V de l'article 6 de la LCEN, dans sa rédaction issue de la loi n° 2024-449 du 21 mai 2024).
 
 ---
 
@@ -500,5 +500,5 @@ Toute réclamation relative aux Services doit être adressée par écrit à l'ad
 
 *Document établi par LaMeDuSe SAS : SIREN 915 248 579 : 231 rue Saint-Honoré, 75001 Paris.*
 
-*Dernière mise à jour : 19 juin 2026*
+*Dernière mise à jour : 16 juillet 2026*
 

@@ -1,7 +1,7 @@
 {
     "name": "Conditions Particulieres : Service de Serveur Dedie",
-    "last_updated": "2026-06-19",
-    "version": "4",
+    "last_updated": "2026-07-16",
+    "version": "5",
     "src": "lameduse-cloud-cp-dedicated-server.md",
     "description": "Conditions particulieres LaMeDuSe pour le service de serveur dedie"
 }

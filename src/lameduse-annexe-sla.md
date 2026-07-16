@@ -4,7 +4,7 @@
 
 *Annexe aux Conditions Générales de Vente : Services d'Hébergement*
 
-*Dernière mise à jour : 19 juin 2026*
+*Dernière mise à jour : 16 juillet 2026*
 
 ---
 
@@ -21,18 +21,27 @@ L'avoir calculé selon la présente Annexe constitue la **seule et exclusive com
 ## Article 1 : Définitions
 
 - **Taux de disponibilité** : pourcentage du temps, sur la période de mesure, pendant lequel le Service est disponible, calculé selon la formule de l'article 3.
-- **Indisponibilité** : période durant laquelle le Service relevant de la responsabilité de LaMeDuSe est totalement inaccessible, à l'exclusion des cas non comptabilisés prévus à l'article 4.
+- **Gamme de service** : niveau d'engagement de disponibilité applicable au Service, précisé au Devis parmi les trois niveaux définis à l'article 2 (Essentiel, Avancé ou Critique). À défaut d'indication au Devis, la gamme Essentiel s'applique.
+- **Indisponibilité** : période continue d'au moins **cinq (5) minutes** durant laquelle le Service relevant de la responsabilité de LaMeDuSe est totalement inaccessible depuis l'extérieur, à l'exclusion des cas non comptabilisés prévus à l'article 4. Toute interruption d'une durée inférieure à cinq (5) minutes consécutives n'est pas comptabilisée comme Indisponibilité.
 - **Période de mesure** : le mois civil, la disponibilité étant appréciée sur une base mensuelle glissante conformément à l'article 12.1 des CGV.
+- **Panne matérielle** : tout incident résultant de la défaillance d'un composant matériel du serveur (disque, carte mère, mémoire, alimentation, ventilateur, carte réseau, etc.) entraînant l'indisponibilité complète du serveur concerné, à l'exclusion des problèmes de performance (latence, surchauffe, surcharge) qui ne constituent pas une indisponibilité.
+- **Délai d'intervention** : temps écoulé entre le signalement d'un incident par le Client (ouverture d'un ticket recevable) et la prise en compte de cet incident par les équipes techniques de LaMeDuSe, à distinguer de la résolution effective de l'incident.
 - **Avoir** : crédit accordé au Client, exprimé en pourcentage du montant mensuel hors taxes du Service concerné, imputable sur une facture ultérieure.
 - **Montant mensuel de référence** : montant hors taxes facturé au titre du seul Service affecté par l'indisponibilité, pour le mois concerné.
 
 ---
 
-## Article 2 : Engagement de disponibilité
+## Article 2 : Engagement de disponibilité par gamme
 
-2.1. Sauf engagement différent précisé au Devis, LaMeDuSe garantit un taux de disponibilité mensuel de **99,9 %** pour l'infrastructure relevant de sa responsabilité (réseau, alimentation électrique, refroidissement, et pour les serveurs dédiés, l'infrastructure physique et réseau au sens de l'article 11 des CP Serveur dédié).
+2.1. LaMeDuSe garantit un taux de disponibilité mensuel pour l'infrastructure relevant de sa responsabilité (réseau, alimentation électrique, refroidissement, et pour les serveurs dédiés, l'infrastructure physique et réseau au sens de l'article 11 des CP Serveur dédié). Le niveau garanti dépend de la **gamme de service** souscrite, précisée au Devis, selon le barème suivant :
 
-2.2. Un taux de disponibilité de 99,9 % correspond à une indisponibilité maximale tolérée d'environ **43 minutes et 50 secondes par mois** (base de 30 jours).
+| Gamme de service | Taux de disponibilité mensuel garanti | Indisponibilité maximale tolérée (base 30 jours) |
+|---|---|---|
+| **Essentiel** | 99,9 % | environ 43 minutes et 50 secondes par mois |
+| **Avancé** | 99,95 % | environ 21 minutes et 55 secondes par mois |
+| **Critique** | 99,99 % | environ 4 minutes et 23 secondes par mois |
+
+2.2. La gamme applicable à chaque Service est celle précisée au Devis. À défaut d'indication expresse au Devis, la gamme **Essentiel** (99,9 %) s'applique par défaut. Le Devis peut également prévoir un engagement de disponibilité renforcé ou adapté qui prévaut alors sur le présent barème, dans les conditions de l'article 37.3 des CGV.
 
 2.3. Le SLA porte exclusivement sur les éléments relevant de la responsabilité de LaMeDuSe. Il ne couvre pas les indisponibilités imputables au système d'exploitation, aux applications, aux configurations ou aux manipulations du Client, conformément à l'article 11.2 des CP Serveur dédié.
 
@@ -50,7 +59,7 @@ où :
 - **T** = durée totale du mois considéré, en minutes (hors périodes non comptabilisées au titre de l'article 4) ;
 - **I** = durée cumulée des indisponibilités imputables à LaMeDuSe, en minutes, sur le mois considéré.
 
-3.2. Les indisponibilités sont décomptées à partir de leur constatation par les systèmes de supervision de LaMeDuSe ou, si elle est antérieure, à partir de l'ouverture d'un ticket d'incident recevable par le Client, jusqu'au rétablissement effectif du Service.
+3.2. Les indisponibilités sont décomptées à partir de l'ouverture d'un ticket d'incident recevable par le Client ou, si elle est antérieure, à partir de leur constatation par les systèmes de supervision de LaMeDuSe, jusqu'au rétablissement effectif du Service. Seules sont comptabilisées les périodes d'indisponibilité continues d'au moins cinq (5) minutes, conformément à la définition de l'article 1.
 
 3.3. En cas de litige sur la mesure, les journaux de supervision de LaMeDuSe font foi, sans préjudice du droit du Client de rapporter la preuve contraire, conformément à l'article 34 des CGV.
 
@@ -68,21 +77,20 @@ Conformément à l'article 12.2 des CGV, ne sont pas comptabilisés comme indisp
 
 ---
 
-## Article 5 : Barème de compensation (avoirs)
+## Article 5 : Barème de compensation (avoirs de disponibilité)
 
-5.1. Lorsque le taux de disponibilité mensuel constaté est inférieur à l'engagement de 99,9 %, le Client peut, sur demande formulée dans les conditions de l'article 6, bénéficier d'un avoir calculé selon le barème suivant :
+5.1. Lorsque le taux de disponibilité mensuel constaté est inférieur à l'engagement garanti pour la gamme souscrite (article 2), le Client peut, sur demande formulée dans les conditions de l'article 6, bénéficier d'un avoir calculé selon le barème suivant. Le seuil haut de déclenchement dépend de la gamme applicable au Service :
 
-| Taux de disponibilité mensuel constaté | Avoir (en % du montant mensuel HT du Service concerné) |
-|---|---|
-| De 99,0 % à moins de 99,9 % | 5 % |
-| De 98,0 % à moins de 99,0 % | 10 % |
-| De 95,0 % à moins de 98,0 % | 25 % |
-| De 90,0 % à moins de 95,0 % | 50 % |
-| Inférieur à 90,0 % | 100 % |
+| Taux de disponibilité mensuel constaté (MAR) | | | Avoir (en % du montant mensuel HT du Service concerné) |
+|---|---|---|---|
+| **Gamme Essentiel (99,9 %)** | **Gamme Avancé (99,95 %)** | **Gamme Critique (99,99 %)** | |
+| 99,0 % ≤ MAR < 99,9 % | 99,0 % ≤ MAR < 99,95 % | 99,0 % ≤ MAR < 99,99 % | 10 % |
+| 95,0 % ≤ MAR < 99,0 % | 95,0 % ≤ MAR < 99,0 % | 95,0 % ≤ MAR < 99,0 % | 25 % |
+| MAR < 95,0 % | MAR < 95,0 % | MAR < 95,0 % | 50 % |
 
 5.2. L'avoir est calculé sur le **montant mensuel de référence** du seul Service affecté, à l'exclusion des autres Services, des options non affectées et des frais de mise en service (setup).
 
-5.3. Le montant cumulé des avoirs accordés au titre d'un même mois ne peut en aucun cas excéder **100 % du montant mensuel de référence** du Service concerné.
+5.3. Le montant cumulé de l'ensemble des avoirs accordés au titre d'un même mois et d'un même Service, toutes causes confondues (avoir de disponibilité du présent article et avoir d'intervention de l'article 7), ne peut en aucun cas excéder **50 % du montant mensuel de référence** du Service concerné.
 
 5.4. L'avoir prend la forme d'un crédit imputable sur une facture ultérieure. Il ne donne lieu à aucun remboursement en numéraire, sauf en cas de résiliation du Service ne permettant plus l'imputation de l'avoir, auquel cas son montant résiduel est remboursé.
 
@@ -106,9 +114,9 @@ Conformément à l'article 12.2 des CGV, ne sont pas comptabilisés comme indisp
 
 7.2. Si la pièce n'est pas disponible en stock local, LaMeDuSe propose, dans le même délai de deux (2) heures, la bascule vers une **Unité de remplacement (swap)** de configuration identique ou équivalente, conformément à l'article 10.4 des CP Serveur dédié.
 
-7.3. En cas de non-respect du délai d'intervention de deux (2) heures prévu à l'article 7.1 ou 7.2, imputable à LaMeDuSe, le Client peut bénéficier d'un avoir complémentaire de **10 % du montant mensuel HT** du serveur concerné par tranche entamée de deux (2) heures de retard, dans la limite de **50 % du montant mensuel HT** du serveur concerné.
+7.3. En cas de non-respect du délai d'intervention de deux (2) heures prévu à l'article 7.1 ou 7.2, imputable à LaMeDuSe, le Client peut bénéficier d'un avoir complémentaire de **5 % du montant mensuel HT** du serveur concerné par tranche entamée de **trente (30) minutes** de retard au-delà du délai garanti, dans la limite de **50 % du montant mensuel HT** du serveur concerné.
 
-7.4. Les avoirs prévus au présent article se cumulent avec l'avoir de disponibilité de l'article 5, sans que le total des avoirs accordés au titre d'un même mois et d'un même serveur ne puisse excéder **100 % du montant mensuel de référence** de ce serveur.
+7.4. Les avoirs prévus au présent article se cumulent avec l'avoir de disponibilité de l'article 5, sans que le total des avoirs accordés au titre d'un même mois et d'un même serveur, toutes causes confondues, ne puisse excéder **50 % du montant mensuel de référence** de ce serveur, conformément à l'article 5.3.
 
 ---
 
@@ -130,4 +138,4 @@ Conformément à l'article 12.2 des CGV, ne sont pas comptabilisés comme indisp
 
 *Document établi par LaMeDuSe SAS · SIREN 915 248 579 · 231 rue Saint-Honoré, 75001 Paris.*
 
-*Dernière mise à jour : 19 juin 2026*
+*Dernière mise à jour : 16 juillet 2026*

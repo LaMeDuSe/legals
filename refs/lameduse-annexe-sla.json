@@ -1,7 +1,7 @@
 {
     "name": "Annexe SLA : Niveaux de Service et Bareme de Compensation",
-    "last_updated": "2026-06-19",
-    "version": "4",
+    "last_updated": "2026-07-16",
+    "version": "5",
     "src": "lameduse-annexe-sla.md",
     "description": "Annexe SLA de LaMeDuSe pour les services d'hebergement"
 }

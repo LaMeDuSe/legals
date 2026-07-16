@@ -1,0 +1,7 @@
+{
+    "name": "Conditions Particulieres : Service de Stockage Objet (S3)",
+    "last_updated": "2026-07-16",
+    "version": "1",
+    "src": "lameduse-cloud-cp-object-storage.md",
+    "description": "Conditions particulieres LaMeDuSe pour le service de stockage objet (S3)"
+}

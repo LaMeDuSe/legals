@@ -121,7 +121,7 @@ Les présentes CP ont pour objet de définir les conditions techniques, financi�
 
 ## Article 11 : Niveau de service (SLA) spécifique au Serveur dédié
 
-11.1. LaMeDuSe garantit, pour l'infrastructure relevant de sa responsabilité (réseau, alimentation électrique, climatisation du Datacenter), un taux de disponibilité mensuel de **99,9 %**, mesuré sur une base mensuelle glissante, dans les conditions et exclusions prévues à l'article 12 des CGV et à l'annexe SLA.
+11.1. LaMeDuSe garantit, pour l'infrastructure relevant de sa responsabilité (réseau, alimentation électrique, climatisation du Datacenter), un taux de disponibilité mensuel qui dépend de la **gamme de service** souscrite et précisée au Devis (**99,9 %** pour la gamme Essentiel, **99,95 %** pour la gamme Avancé, **99,99 %** pour la gamme Critique), mesuré sur une base mensuelle glissante, dans les conditions et exclusions prévues à l'article 12 des CGV et à l'annexe SLA. À défaut d'indication de gamme au Devis, la gamme Essentiel (99,9 %) s'applique.
 
 11.2. Ce SLA porte exclusivement sur la disponibilité de l'infrastructure physique et réseau mise à disposition par LaMeDuSe. Il ne couvre pas les indisponibilités résultant du système d'exploitation, des applications, des configurations ou des manipulations effectuées par le Client sur le Serveur, celles-ci relevant de sa seule responsabilité.
 
@@ -143,7 +143,7 @@ Les présentes CP ont pour objet de définir les conditions techniques, financi�
 
 ## Article 13 : Obligation légale d'identification (LCEN)
 
-13.1. Conformément aux articles 6-II et 6-VI de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN), LaMeDuSe, en sa qualité d'hébergeur, conserve pendant une durée d'un (1) an les données de nature à permettre l'identification de toute personne ayant contribué à la création d'un contenu hébergé sur le Serveur, et peut être tenue de les communiquer à l'autorité judiciaire sur réquisition.
+13.1. Conformément au V de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN), dans sa rédaction issue de la loi n° 2024-449 du 21 mai 2024, et à l'article L. 34-1 du Code des postes et des communications électroniques, LaMeDuSe, en sa qualité de fournisseur de services d'hébergement, conserve pendant une durée d'un (1) an les données de nature à permettre l'identification de toute personne ayant contribué à la création d'un contenu hébergé sur le Serveur, et peut être tenue de les communiquer à l'autorité judiciaire sur réquisition.
 
 13.2. Le Client s'engage à fournir à LaMeDuSe des informations d'identification exactes et à jour lors de la souscription du Service, et à les maintenir à jour pendant toute la durée du contrat.
 
@@ -202,5 +202,3 @@ Les présentes CP ont pour objet de définir les conditions techniques, financi�
 ## Article 19 : Articulation avec les CGV
 
 Pour tout point non expressément traité par les présentes CP (facturation, responsabilité, données personnelles, force majeure, résiliation pour manquement, droit applicable, juridiction compétente), les dispositions des CGV Hébergement LaMeDuSe s'appliquent pleinement et sans réserve.
-
-*Dernière mise à jour : 19 juin 2026*

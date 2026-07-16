@@ -1,0 +1,7 @@
+{
+    "name": "Conditions Particulieres : Service de Disque Reseau (Stockage Bloc)",
+    "last_updated": "2026-07-16",
+    "version": "1",
+    "src": "lameduse-cloud-cp-block-storage.md",
+    "description": "Conditions particulieres LaMeDuSe pour le service de disque reseau (stockage bloc)"
+}
