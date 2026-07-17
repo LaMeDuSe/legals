@@ -2,9 +2,16 @@
     "refs/lameduse-cloud-gen.json",
     "refs/lameduse-retainers.json",
     "refs/lameduse-cloud-cp-dedicated-server.json",
+    "refs/lameduse-cloud-cp-block-storage.json",
+    "refs/lameduse-cloud-cp-nas.json",
+    "refs/lameduse-cloud-cp-object-storage.json",
+    "refs/lameduse-cloud-cp-voip-gateway.json",
+    "refs/lameduse-cloud-cp-vps.json",
+    "refs/lameduse-cloud-cp-web-hosting.json",
     "refs/lameduse-annexe-sla.json",
     "refs/lameduse-aup.json",
     "refs/lameduse-dpa.json",
+    "refs/lameduse-sous-traitants.json",
     "refs/mentions-legales.json",
     "refs/politique-confidentialite.json"
 ]
