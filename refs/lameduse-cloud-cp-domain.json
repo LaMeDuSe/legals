@@ -1,0 +1,7 @@
+{
+    "name": "Conditions Particulieres : Service de Noms de Domaine",
+    "last_updated": "2026-11-06",
+    "version": "1",
+    "src": "lameduse-cloud-cp-domain.md",
+    "description": "Conditions Particulieres LaMeDuSe Cloud pour le service de noms de domaine (enregistrement, renouvellement, transferts, litiges UDRP/PARL, DNS)"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Conditions Particulieres : Service d'Acces Internet (Connectivite)",
+    "last_updated": "2026-11-06",
+    "version": "1",
+    "src": "lameduse-cloud-cp-internet-access.md",
+    "description": "Conditions Particulieres LaMeDuSe Cloud pour le service de fourniture d'acces internet et de connectivite (SLA dedie, GTR, IP, suspension)"
+}
