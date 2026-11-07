@@ -111,15 +111,17 @@ Toute commande implique l'adhésion sans réserve aux présentes CGV et aux **Co
 
 ## Article 11 : Propriété intellectuelle
 
-11.1. **Le code écrit par LaMeDuSe demeure la propriété exclusive de LaMeDuSe.** Le Client est titulaire, à compter de la réception et du paiement intégral des sommes dues, d'une **licence d'usage non exclusive, non cessible et perpétuelle** des Livrables, pour ses besoins internes propres, dans l'étendue prévue au devis.
+11.1. **Cession des droits sur les Livrables spécifiques** : les droits de propriété intellectuelle afférents aux Livrables **spécifiquement développés pour le Client** dans le cadre de la Prestation sont cédés au Client **à la seule condition du paiement intégral des sommes correspondantes**, pour le monde entier et pour la durée de protection légale correspondante, en vue de l'exploitation de ces Livrables pour ses besoins propres. Tant que le paiement n'est pas complet, **aucun droit n'est cédé** : un paiement partiel ou incomplet ne confère au Client aucun droit sur les Livrables, lesquels demeurent la propriété exclusive de LaMeDuSe.
 
-11.2. Les composants génériques, bibliothèques, frameworks, outils et savoir-faire développés ou utilisés par LaMeDuSe, y compris lorsqu'ils sont incorporés aux Livrables, demeurent la propriété exclusive de LaMeDuSe, qui conserve le droit de les réutiliser pour tout autre client ou projet.
+11.2. **Droits conservés par LaMeDuSe** : LaMeDuSe conserve la propriété exclusive et l'intégralité des droits sur ce qui n'est pas spécifiquement développé pour le Client : composants génériques, briques logicielles, bibliothèques, frameworks, outils, **méthodes et techniques d'ingénierie**, savoir-faire, développements internes préexistants ou développés indépendamment de la Prestation, y compris lorsqu'ils sont incorporés aux Livrables ; LaMeDuSe conserve le droit de les réutiliser pour tout autre client ou projet.
 
 11.3. Les marques, documentations, méthodologies et outils du Prestataire demeurent sa propriété exclusive.
 
 11.4. Pour les logiciels commercialisés sous les marques Artémis et MedEyes, les CGV Licences Logicielles Artémis & MedEyes s'appliquent en complément et prévalent sur les présentes en cas de contradiction.
 
-11.5. Toute exploitation des Livrables au-delà de la licence consentie (reproduction, adaptation, diffusion, sous-licence, cession) est interdite sans accord écrit préalable de LaMeDuSe.
+11.5. Toute exploitation des Livrables au-delà des droits cédés (reproduction au profit de tiers, diffusion, sous-licence) est interdite sans accord écrit préalable de LaMeDuSe.
+
+11.6. **Composants tiers et logiciels open source** : les Livrables peuvent incorporer des composants tiers, bibliothèques ou logiciels open source, identifiés autant que faire se peut à la livraison. Ces composants demeurent régis par leurs propres licences ; les droits cédés au Client s'exercent dans le respect de ces licences, et LaMeDuSe ne garantit pas l'absence de restrictions inhérentes à celles-ci (notamment les obligations de partage du code source propres à certaines licences copyleft). Le recours à des outils d'assistance au développement, y compris d'outils d'intelligence artificielle, n'affecte pas la titularité des droits telle que définie au présent article.
 
 ## Article 12 : Données à caractère personnel
 
@@ -163,7 +165,7 @@ Toute commande implique l'adhésion sans réserve aux présentes CGV et aux **Co
 
 17.1. À l'issue de la Prestation, LaMeDuSe restitue au Client les éléments lui appartenant (contenus, données, accès) et supprime ses copies, sous réserve de ses obligations légales d'archivage.
 
-17.2. La restitution du code source n'est pas incluse, conformément à l'article 11, sauf stipulation contraire expresse au devis.
+17.2. La restitution du **code source des Livrables cédés** en application de l'article 11.1 intervient à l'issue de la Prestation et après paiement intégral des sommes dues ; les sources des composants, briques et outils conservés par LaMeDuSe (article 11.2) ne sont pas livrés.
 
 ## Article 18 : Sous-traitance
 

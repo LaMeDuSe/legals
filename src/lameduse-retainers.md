@@ -171,7 +171,7 @@ Chaque Partie coopère de bonne foi avec l'autre Partie pour déterminer les mes
 
 ## Article 17 : Propriété intellectuelle
 
-Sauf stipulation contraire prévue au devis ou au contrat particulier, les droits de propriété intellectuelle afférents aux Livrables spécifiquement créés par le Prestataire pour le Client dans le cadre du Forfait sont cédés au Client au fur et à mesure de leur paiement intégral.
+Sauf stipulation contraire prévue au devis ou au contrat particulier, les droits de propriété intellectuelle afférents aux Livrables spécifiquement créés par le Prestataire pour le Client dans le cadre du Forfait sont cédés au Client **à la seule condition du paiement intégral des sommes correspondantes**. Tout paiement partiel ou incomplet ne confère au Client aucun droit sur les Livrables, lesquels demeurent la propriété exclusive du Prestataire jusqu'à complet paiement.
 
 Le Prestataire conserve la pleine propriété de ses outils, méthodologies, briques logicielles génériques, savoir-faire et développements internes préexistants ou développés indépendamment de la Prestation, y compris lorsqu'ils sont mis en œuvre dans le cadre de son exécution.
 
