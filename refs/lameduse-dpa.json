@@ -1,7 +1,7 @@
 {
     "name": "Accord de Traitement des Donnees a Caractere Personnel (DPA)",
-    "last_updated": "2026-06-19",
-    "version": "4",
+    "last_updated": "2026-11-06",
+    "version": "5",
     "src": "lameduse-dpa.md",
     "description": "DPA LaMeDuSe relatif au traitement des donnees personnelles"
 }

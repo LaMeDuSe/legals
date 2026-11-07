@@ -137,6 +137,12 @@ Le présent DPA produit ses effets pendant toute la durée de fourniture des Ser
 
 ---
 
+## Article 12 : Indépendance des stipulations
+
+Si l'une quelconque des stipulations du présent DPA était déclarée nulle ou inapplicable, les autres stipulations conserveraient toute leur force et leur portée ; les Parties s'efforceraient de bonne foi de négocier une clause de remplacement de portée équivalente.
+
+---
+
 *Document établi par LaMeDuSe SAS · SIREN 915 248 579 · 231 rue Saint-Honoré, 75001 Paris.*
 
-*Dernière mise à jour : 19 juin 2026*
+*Dernière mise à jour : 6 novembre 2026*
