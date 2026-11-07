@@ -93,6 +93,8 @@ Toute création de nouveau document autonome doit inclure cette clause ; toute m
 | CGP (`src/lameduse-payments-terms.md`) | Art. 10.4 « Indépendance des stipulations » |
 | CGV Développement Logiciel (`src/lameduse-dev-cgv.md`) | Art. 21.4 « Indépendance des stipulations » |
 | CGV-L Artémis & MedEyes (`src/lameduse-license-cgv.md`) | Art. 18.4 « Indépendance des stipulations » |
+| CGV Design (`src/lameduse-design-cgv.md`) | Art. 14.4 « Indépendance des stipulations » |
+| CGV Intelligence Artificielle (`src/lameduse-ai-cgv.md`) | Art. 14.4 « Indépendance des stipulations » |
 | DPA (`src/lameduse-dpa.md`) | Art. 12 « Indépendance des stipulations » |
 
 ### 7.4 Documents exemptés (héritage ou non-contractuel)
