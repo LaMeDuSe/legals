@@ -1,6 +1,9 @@
 [
     "refs/lameduse-cloud-gen.json",
     "refs/lameduse-retainers.json",
+    "refs/lameduse-payments-terms.json",
+    "refs/lameduse-dev-cgv.json",
+    "refs/lameduse-license-cgv.json",
     "refs/lameduse-cloud-cp-dedicated-server.json",
     "refs/lameduse-cloud-cp-block-storage.json",
     "refs/lameduse-cloud-cp-nas.json",
