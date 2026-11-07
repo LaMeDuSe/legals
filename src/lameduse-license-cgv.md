@@ -225,6 +225,8 @@ Le présent article ne saurait toutefois exclure la responsabilité de LaMeDuSe 
 
 17.3. À la fin de la Licence, le Licencié cesse toute utilisation, détruit toutes ses copies et en atteste par écrit ; ses données lui sont restituées dans les conditions de réversibilité.
 
+17.4. **Force majeure** : aucune Partie n'est responsable d'un manquement dû à un cas de force majeure au sens de l'article 1218 du Code civil. Le cas de force majeure suspend les obligations affectées ; s'il persiste plus de soixante (60) jours, chaque Partie peut résilier les Services concernés sans indemnité. Les obligations de paiement des sommes échues à la date du cas de force majeure demeurent dues.
+
 ## Article 18 : Dispositions diverses
 
 18.1. En cas de contradiction entre documents contractuels applicables, l'ordre de priorité suivant s'applique, du rang le plus élevé au plus faible : (i) le devis signé par le Licencié ; (ii) les conditions particulières et, le cas échéant, le contrat de distribution ; (iii) les présentes CGV-L ; (iv) les CGV générales applicables (LaMeDuSe Cloud, Développement Logiciel) ; (v) les CGP, lesquelles prévalent toutefois sur tout document de rang inférieur pour les modalités et les pénalités de paiement.
