@@ -191,9 +191,9 @@ Les présentes CP ont pour objet de définir les conditions techniques, financi�
 
 ---
 
-## Article 18 : Droit de rétractation
+## Article 18 : Droit de rétractation (Clients particuliers sous condition dérogatoire)
 
-18.1. Lorsque le Client a la qualité de consommateur au sens du Code de la consommation, il bénéficie en principe d'un délai de rétractation de quatorze (14) jours prévu à l'article L221-18 du Code de la consommation.
+18.1. Le présent article ne s'applique qu'aux personnes physiques agissant à des fins personnelles (particuliers) admises à souscrire dans le cadre d'une condition dérogatoire expresse et écrite, conformément aux CGV. Pour ces Clients, le droit de rétractation prévu à l'article L221-18 du Code de la consommation s'applique en principe dans un délai de quatorze (14) jours.
 
 18.2. Ce droit ne peut toutefois être exercé, conformément à l'article L221-28 1° du Code de la consommation, dès lors que l'exécution du Service a commencé, avec l'accord préalable et exprès du Client et renoncement exprès de sa part à son droit de rétractation, avant la fin du délai de rétractation. La mise à disposition effective du Serveur au sens de l'article 4.3 des présentes CP, demandée et acceptée par le Client, vaut demande expresse d'exécution immédiate emportant renonciation au droit de rétractation dès cette mise à disposition.
 

@@ -499,6 +499,8 @@ Toute réclamation relative aux Services doit être adressée par écrit à l'ad
 
 37.6. **Langue** : les présentes CGV sont rédigées en langue française. En cas de traduction dans une autre langue, notamment en anglais, à des fins d'information, seule la version française fait foi entre les Parties en cas de divergence ou de litige d'interprétation.
 
+37.7. **Contrôle des exportations et sanctions** : chaque Partie s'engage à respecter les réglementations applicables en matière de contrôle des exportations, de sanctions internationales et d'embargos (notamment celles de l'Union européenne et des Nations Unies, ainsi que, dans la mesure de leur application, celles des États-Unis). Le Client déclare ne pas faire l'objet de mesures de sanctions et s'engage à ne pas utiliser les Services pour le compte de personnes ou entités soumises à de telles mesures ou situées dans des territoires sous embargo. En cas de violation, LaMeDuSe pourra suspendre immédiatement les Services, sans préavis ni indemnité, et résilier le contrat après mise en demeure restée sans effet.
+
 ---
 
 *Document établi par LaMeDuSe SAS : SIREN 915 248 579 : 231 rue Saint-Honoré, 75001 Paris.*
