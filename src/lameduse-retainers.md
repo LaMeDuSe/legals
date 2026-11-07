@@ -87,7 +87,11 @@ Les Parties conviennent expressément que tout mois d'exécution commencé est i
 
 Les factures sont payables par virement bancaire dans un délai de 15 jours date de facture, sauf stipulation contraire figurant sur la facture.
 
-Conformément aux dispositions des articles L. 441-10 et D. 441-5 du Code de commerce, tout retard de paiement entraîne de plein droit l'application d'une pénalité calculée sur la base de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros, sans préjudice d'une indemnisation complémentaire sur justificatifs si les frais de recouvrement exposés sont supérieurs à ce montant.
+Conformément aux dispositions des articles L. 441-10 et D. 441-5 du Code de commerce, tout retard de paiement entraîne de plein droit l'application d'une pénalité calculée sur la base de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros par facture, sans préjudice d'une indemnisation complémentaire sur justificatifs si les frais de recouvrement exposés sont supérieurs à ce montant.
+
+En cas d'incident de paiement ou de litige, les frais administratifs prévus dans les Conditions Générales de Paiement (CGP) de LaMeDuSe, qui complètent les présentes CGV et en font partie intégrante, sont dus par le Client : 35,00 € par dispute SEPA infondée ou par dispute par carte bancaire (frais administratifs de traitement de litige injustifié, Carte/SEPA) et 6,00 € de frais administratifs de recouvrement par rejet de prélèvement SEPA.
+
+En cas de rejet d'un prélèvement SEPA ou de tout autre incident d'encaissement, la Prestation est suspendue immédiatement, sans préavis, jusqu'à complète régularisation des sommes dues, conformément aux CGP.
 
 À défaut de paiement dans un délai de 15 jours après mise en demeure restée infructueuse, le Prestataire pourra suspendre l'exécution de la Prestation jusqu'à complet règlement, sans que cette suspension ne puisse ouvrir droit à indemnité au profit du Client.
 
@@ -277,4 +281,4 @@ En cas de différend relatif à la validité, l'interprétation, l'exécution ou
 
 *Document établi par LaMeDuSe SAS : SIREN 915 248 579 : 231 rue Saint-Honoré, 75001 Paris.*
 
-*Dernière mise à jour : 19 juin 2026*
+*Dernière mise à jour : 6 novembre 2026*

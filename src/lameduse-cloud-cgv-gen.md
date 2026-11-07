@@ -6,7 +6,7 @@
 
 ## Préambule
 
-Les présentes Conditions Générales de Vente (ci-après les « **CGV** ») ont pour objet de définir les modalités et conditions dans lesquelles la société **LaMeDuSe SAS** fournit ses prestations d'hébergement informatique (cloud, infrastructure, serveurs dédiés/mutualisés, machines virtuelles, stockage, réseau et services associés) à ses clients professionnels et/ou consommateurs.
+Les présentes Conditions Générales de Vente (ci-après les « **CGV** ») ont pour objet de définir les modalités et conditions dans lesquelles la société **LaMeDuSe SAS** fournit ses prestations d'hébergement informatique (cloud, infrastructure, serveurs dédiés/mutualisés, machines virtuelles, stockage, réseau et services associés) **exclusivement à ses clients professionnels**. Les Services ne sont pas destinés aux particuliers : toute souscription par une personne physique agissant à des fins personnelles n'est admise que dans le cadre d'une **condition dérogatoire expresse et écrite** conclue avec LaMeDuSe (article 2 des présentes).
 
 Toute commande de prestation implique l'adhésion sans réserve du Client aux présentes CGV, à l'exclusion de tout autre document. Le Client reconnaît en avoir pris connaissance avant toute passation de commande.
 
@@ -35,7 +35,7 @@ Ci-après désignée « **LaMeDuSe** » ou le « **Prestataire** ».
 
 ## Article 2 : Définitions
 
-- **Client** : toute personne physique ou morale, professionnelle ou consommatrice, souscrivant à un Service auprès du Prestataire.
+- **Client** : toute personne physique ou morale professionnelle (entreprise, profession libérale, indépendant, association, collectivité) souscrivant à un Service auprès du Prestataire. Les Services étant dédiés aux professionnels, toute souscription par un particulier n'est admise que dans le cadre d'une condition dérogatoire expresse et écrite conclue avec LaMeDuSe, précisant les modalités particulières applicables.
 - **Service(s)** : les prestations d'hébergement fournies par LaMeDuSe, incluant notamment les infrastructures cloud, serveurs virtuels ou dédiés, stockage, sauvegarde, réseau, noms de domaine associés, et tout service complémentaire mentionné au Devis ou Bon de Commande.
 - **Devis / Bon de commande** : document décrivant les Services souscrits, leur tarif et leur durée.
 - **Données** : tout contenu, fichier, base de données ou information hébergée par le Client sur les infrastructures du Prestataire.
@@ -144,15 +144,18 @@ Certains Services font en outre l'objet de **Conditions Particulières de Servic
 
 10.2. La facturation intervient selon la périodicité convenue (mensuelle, trimestrielle, annuelle), d'avance, sauf mention contraire.
 
-10.3. Les factures sont payables à réception, ou selon l'échéance mentionnée sur la facture, par virement bancaire ou tout autre moyen convenu entre les Parties.
+10.3. Les factures sont payables à réception, ou selon l'échéance mentionnée sur la facture, par virement bancaire, prélèvement SEPA ou tout autre moyen convenu entre les Parties, conformément aux **Conditions Générales de Paiement (CGP)** de LaMeDuSe, qui complètent les présentes CGV et en font partie intégrante.
 
-10.4. **Retard de paiement** : conformément aux dispositions du Code de commerce, tout retard de paiement entraîne de plein droit :
+10.4. **Encours toléré et facturation en cours de période** : sauf stipulation contraire au Devis, un encours toléré par défaut de **500 € HT par mois** s'applique à chaque Client. Lorsque le montant cumulé des prestations dues ou consommées au cours d'une période excède cet encours, LaMeDuSe peut émettre une facturation intermédiaire en cours de période, selon les modalités précisées aux CGP.
+
+10.5. **Retard de paiement** : conformément aux articles L. 441-10 et D. 441-5 du Code de commerce, tout retard de paiement entraîne de plein droit :
    - l'application d'une pénalité de retard au taux d'intérêt légal en vigueur majoré de dix (10) points, calculée sur le montant TTC de la facture ;
-   - une indemnité forfaitaire pour frais de recouvrement de **40 €**, sans préjudice d'une indemnisation complémentaire sur justificatifs si les frais de recouvrement exposés sont supérieurs.
+   - une indemnité forfaitaire pour frais de recouvrement de **40 € par facture**, sans préjudice d'une indemnisation complémentaire sur justificatifs si les frais de recouvrement exposés sont supérieurs ;
+   - les frais administratifs prévus aux CGP en cas d'incident de paiement ou de litige infondé : **35 €** par dispute SEPA infondée ou dispute par carte (frais administratifs de traitement de litige injustifié, Carte/SEPA) et **6 €** de frais administratifs de recouvrement par rejet de prélèvement SEPA.
 
-10.5. En cas de non-paiement à l'échéance, LaMeDuSe pourra, après mise en demeure restée infructueuse pendant huit (8) jours, suspendre l'accès aux Services jusqu'à complet paiement, sans préjudice de son droit à résiliation.
+10.6. **Suspension en cas d'incident de paiement** : en cas de rejet d'un prélèvement SEPA, de refus d'encaissement par carte ou de tout autre incident d'encaissement sur l'Infrastructure mise à l'usage du Client, l'Infrastructure concernée est suspendue **immédiatement**, sans préavis ni délai de grâce, jusqu'à complète régularisation des sommes dues, conformément aux CGP. En cas de non-paiement à l'échéance sans incident d'encaissement, LaMeDuSe pourra, après mise en demeure restée infructueuse pendant huit (8) jours, suspendre l'accès aux Services jusqu'à complet paiement, sans préjudice de son droit à résiliation.
 
-10.6. LaMeDuSe se réserve le droit de réviser ses tarifs à tout moment, sous réserve d'en informer le Client par écrit avec un préavis minimal de deux (2) mois avant la prise d'effet de la nouvelle tarification.
+10.7. LaMeDuSe se réserve le droit de réviser ses tarifs à tout moment, sous réserve d'en informer le Client par écrit avec un préavis minimal de deux (2) mois avant la prise d'effet de la nouvelle tarification.
 
 ---
 
@@ -162,7 +165,7 @@ Certains Services font en outre l'objet de **Conditions Particulières de Servic
 
 11.2. Le Client professionnel s'engage à disposer des moyens techniques nécessaires pour recevoir et traiter les factures électroniques, et à communiquer à LaMeDuSe toute information nécessaire à leur émission conforme (numéro SIREN, adresse de facturation électronique, option de plateforme de dématérialisation le cas échéant).
 
-11.3. Pour les Clients consommateurs ou non soumis à l'obligation de facturation électronique, les factures pourront être transmises par tout autre moyen convenu (email, espace client).
+11.3. Pour les Clients non soumis à l'obligation de facturation électronique, les factures pourront être transmises par tout autre moyen convenu (email, espace client).
 
 ---
 
@@ -431,9 +434,9 @@ Cette obligation perdure pendant toute la durée du contrat et pendant une duré
 
 ---
 
-## Article 32 : Droit de rétractation (Clients consommateurs)
+## Article 32 : Droit de rétractation (Clients particuliers sous condition dérogatoire)
 
-32.1. Conformément à l'article L221-18 du Code de la consommation, le Client consommateur dispose en principe d'un délai de **quatorze (14) jours** à compter de la conclusion du contrat pour exercer son droit de rétractation, sans avoir à justifier de motif.
+32.1. Le présent article ne s'applique qu'aux personnes physiques agissant à des fins personnelles (particuliers) admises à souscrire dans le cadre d'une condition dérogatoire expresse et écrite, conformément à l'article 2 des présentes. Pour ces Clients, conformément à l'article L221-18 du Code de la consommation, le Client dispose en principe d'un délai de **quatorze (14) jours** à compter de la conclusion du contrat pour exercer son droit de rétractation, sans avoir à justifier de motif.
 
 32.2. Toutefois, conformément à l'article L221-28 1° du Code de la consommation, le droit de rétractation ne peut être exercé pour les contrats de fourniture de services pleinement exécutés avant la fin du délai de rétractation, dès lors que leur exécution a commencé après **accord préalable exprès** du Client et **renoncement exprès** de sa part à son droit de rétractation.
 
@@ -478,7 +481,7 @@ Toute réclamation relative aux Services doit être adressée par écrit à l'ad
 
 36.2. En cas de litige relatif à la formation, l'interprétation ou l'exécution du présent contrat, et à défaut de résolution amiable, compétence exclusive est attribuée aux tribunaux du ressort de Paris, y compris en cas de pluralité de défendeurs ou d'appel en garantie, sauf disposition d'ordre public contraire applicable aux consommateurs.
 
-36.3. Pour les Clients consommateurs, conformément aux articles L.616-1 et R.616-1 du Code de la consommation, il est rappelé la possibilité de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable d'un litige.
+36.3. Pour les Clients particuliers admis au titre d'une condition dérogatoire (article 2 des présentes), conformément aux articles L.616-1 et R.616-1 du Code de la consommation, il est rappelé la possibilité de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable d'un litige.
 
 ---
 
@@ -500,5 +503,5 @@ Toute réclamation relative aux Services doit être adressée par écrit à l'ad
 
 *Document établi par LaMeDuSe SAS : SIREN 915 248 579 : 231 rue Saint-Honoré, 75001 Paris.*
 
-*Dernière mise à jour : 16 juillet 2026*
+*Dernière mise à jour : 6 novembre 2026*
 
