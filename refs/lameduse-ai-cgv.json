@@ -1,0 +1,7 @@
+{
+    "name": "LaMeDuSe CGV Intelligence Artificielle",
+    "last_updated": "2026-11-06",
+    "version": "2",
+    "src": "lameduse-ai-cgv.md",
+    "description": "LaMeDuSe CGV for AI Services (agents, RAG, fine-tuning, consulting) - AI Act compliance, output limitations, training data restrictions"
+}
